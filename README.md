@@ -1,6 +1,8 @@
 # ABOUT
 A player versus player chess game using the Java Graphical User Interface and its features. It implements basic chess moves such as proper movement, capture, and en passant. It also contains a chess clock on the side to keep track of time. Uses object-oriented programming.
 
+Note: Has some bugs which cause game to gitch. Fixed with restart.
+
 ## IMPROVEMENTS
  - A way to determine check and checkmate
  - Show pieces taken
