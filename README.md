@@ -3,7 +3,7 @@ A player versus player chess game using the Java Graphical User Interface and it
 
 Note: Has some bugs which cause game to gitch. Fixed with restart.
 
-## IMPROVEMENTS
+## FUTURE IMPROVEMENTS
  - A way to determine check and checkmate
  - Show pieces taken
  - Draw button freezes frame
