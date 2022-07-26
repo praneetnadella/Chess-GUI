@@ -12,4 +12,4 @@ Note: Has some bugs which cause game to gitch. Fixed with restart.
  - PvComputer
  
  
- Created by Praneet Nadella in 2018 as his first implementation of a Java Graphical User Interface
+ Created by Praneet Nadella for AP Computer Science final.
